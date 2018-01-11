@@ -1,0 +1,14 @@
+{
+  "name": "lzma",
+  "version": "1.0.0",
+  "description": "Server to descompress lzma ",
+  "main": "index.js",
+  "author": "iagolast",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "lzma": "^2.3.2"
+  }
+}
